@@ -1,0 +1,26 @@
+.main{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+   
+    background-color: rgba(117, 39, 45, 0.77);
+   
+    
+}
+.heading{
+    margin-left: 10rem;
+}
+.search{
+    margin-right: 10rem;
+}
+.search input{
+    width: 15rem;
+    height: 2rem;
+    border-radius: 2rem;
+}
+.search button{
+    margin-left: 2rem;
+    width: 5rem;
+    height: 2.3rem;
+    border-radius: 2rem;
+}
